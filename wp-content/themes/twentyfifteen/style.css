@@ -1563,7 +1563,7 @@ img.aligncenter {
 }
 
 .site-footer {
-	background-color: #fff;
+	background-color: rgba( 255,255,255,0.8);
 	border-top: 1px solid rgba(51, 51, 51, 0.1);
 	padding: 3.84615% 7.6923%;
 }
